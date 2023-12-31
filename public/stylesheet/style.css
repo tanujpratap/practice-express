@@ -1,0 +1,20 @@
+/*! 
+ * FredSiikaCodes UI | MIT License
+ *
+ * A minimalist front-end design toolkit built with Sass for developing 
+ * responsive, browser-consistent web apps.
+ *
+ * Author: Fred Siika <fredsiika@gmail.com.com>
+ * Source: https://github.com/fredsiika/fredcodes.com
+ * Documentation: https://fredsiika.github.io/fredcodes.com
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+
+@media (min-width: 576px) {
+  #welcome-section {
+    height: 100vh;
+    overflow: auto;
+  }
+}
